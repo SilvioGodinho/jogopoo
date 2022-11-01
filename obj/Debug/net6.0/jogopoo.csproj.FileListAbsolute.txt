@@ -1,0 +1,15 @@
+/home/silviogodinho/Documentos/jogopoo/bin/Debug/net6.0/jogopoo
+/home/silviogodinho/Documentos/jogopoo/bin/Debug/net6.0/jogopoo.deps.json
+/home/silviogodinho/Documentos/jogopoo/bin/Debug/net6.0/jogopoo.runtimeconfig.json
+/home/silviogodinho/Documentos/jogopoo/bin/Debug/net6.0/jogopoo.dll
+/home/silviogodinho/Documentos/jogopoo/bin/Debug/net6.0/ref/jogopoo.dll
+/home/silviogodinho/Documentos/jogopoo/bin/Debug/net6.0/jogopoo.pdb
+/home/silviogodinho/Documentos/jogopoo/obj/Debug/net6.0/jogopoo.csproj.AssemblyReference.cache
+/home/silviogodinho/Documentos/jogopoo/obj/Debug/net6.0/jogopoo.GeneratedMSBuildEditorConfig.editorconfig
+/home/silviogodinho/Documentos/jogopoo/obj/Debug/net6.0/jogopoo.AssemblyInfoInputs.cache
+/home/silviogodinho/Documentos/jogopoo/obj/Debug/net6.0/jogopoo.AssemblyInfo.cs
+/home/silviogodinho/Documentos/jogopoo/obj/Debug/net6.0/jogopoo.csproj.CoreCompileInputs.cache
+/home/silviogodinho/Documentos/jogopoo/obj/Debug/net6.0/jogopoo.dll
+/home/silviogodinho/Documentos/jogopoo/obj/Debug/net6.0/ref/jogopoo.dll
+/home/silviogodinho/Documentos/jogopoo/obj/Debug/net6.0/jogopoo.pdb
+/home/silviogodinho/Documentos/jogopoo/obj/Debug/net6.0/jogopoo.genruntimeconfig.cache
