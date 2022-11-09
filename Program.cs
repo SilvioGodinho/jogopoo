@@ -29,11 +29,11 @@ class Program {
     List<PerguntaJogo> listaPerguntas;
     CriarPergunta perguntas = new CriarPergunta();
     listaPerguntas = perguntas.criarLista();
-    Random r = new Random();
-    int pos = r.Next(0, 5);
-    PerguntaJogo pergunta = perguntas[pos];
+    // Random r = new Random();
+    // int pos = r.Next(0, 5);
+    
 
-    Console.WriteLine(pergunta);
+    Console.WriteLine( listaPerguntas);
     
   }
 }
