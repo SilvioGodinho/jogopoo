@@ -11,6 +11,7 @@ public class PerguntaJogo{
         this.Pergunta = pergunta;
         this.Resposta = resposta;
     }
+    
     public String Pergunta {get; set;}
 
     public String Resposta {get; set;}
