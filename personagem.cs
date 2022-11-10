@@ -4,8 +4,8 @@ using System;
 public class Personagem:Jogador{
     
     string p1 = "1 - Doutor Sabe Tudo";
-    string p2 = "2 - Doutura experta";
-    string p3 = "3 - Chuta e acerta";
+    string p2 = "2 - Doutora Experta";
+    string p3 = "3 - Chuta e Acerta";
     string p4 = "4 - Super QI";
     public int numeroTentativas;
     public string persongens()
@@ -22,16 +22,16 @@ public class Personagem:Jogador{
       switch (personagem)
       {
         case "1":
-          Console.WriteLine("aaaaaaaaaaa");
+          Console.WriteLine("Você então é o Doutor Sabe tudo, bom vamos ver se é isso mesmo...");
           break;
         case "2":
-          Console.WriteLine("bbbbbbbbbbb");
+          Console.WriteLine("Você então é o Doutora Experta, bom vamos ver se é isso mesmo");
           break;
         case "3":
-          Console.WriteLine("ccccccccccccc");
+          Console.WriteLine("Você pelo menos é sincero, bom esperamos que tenha um bom jogo");
           break;
         case "4":
-          Console.WriteLine("ddddddddddddddd");
+          Console.WriteLine("Então você tem um SuperQI vamos ve se é isso mesmo !!!!");
           break;
         default:
           Console.WriteLine("Entrada Invalida !!!!");
@@ -41,6 +41,14 @@ public class Personagem:Jogador{
     }
     public int qualPersonagem()
     {
+
+      Console.WriteLine("Bom antes de começar o jogo, você pode escolher até 3 personagens nesse jogo, sendo que cada um deles tem uma força compativél com a quatidade de tentativas que você vai ter para responder as questões, sendo eles: ");
+      Console.WriteLine("1 = forte.\nNessa opção você tem 5 tentativas de acerto");
+      Console.WriteLine("2 = superforte.\nNesa opção você tem 3 tentativas de acerto");
+      Console.WriteLine("3 = extraforte.\nNessa opção você tem 1 tentativas de acerto" );
+
+
+
       Console.WriteLine("Qual você personagem você escolhe ?");
 
         string forca = qualForca();

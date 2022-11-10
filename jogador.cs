@@ -13,7 +13,7 @@ public class Jogador{
     }
 
     public string qualForca(){
-        string forca = Console.ReadLine();
+        string forca = Console.ReadLine().ToLower();
 
         return forca;
   }
