@@ -11,6 +11,12 @@ public class Jogador{
         this.Nome = nome;
         this.Idade = idade;
     }
+
+    public string qualForca(){
+        string forca = Console.ReadLine();
+
+        return forca;
+  }
   
     public String Nome {get; set;}
 
